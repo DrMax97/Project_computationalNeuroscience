@@ -2,7 +2,7 @@
 This repository is about project of computational neuroscience 
 
 ## 1.Problem statement
-  explain your goal of project
+this dataset is useful for studying and analyzing neural activity in response to visual stimuli
 
 ## 2.Related works
   explores existing research and solutions related to your project
